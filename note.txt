@@ -1,0 +1,16 @@
+Context Diagram cung cấp boundary với các external entity bên ngoài, chúng nó sẽ đưa input/output gì 
+External là hình vuông, mũi tên là danh từ 
+
+Về User Requirement:
+Là Actor & Description - ACTOR DƯỚI GÓC NHÌN NGƯỜI DÙNG, không phải từ góc nhìn nàm phần mềm 
+
+Context Diagram
+Use Case Diagram
+Xác định các object về mặt dữ liệu -> State Diagram
+Vẽ ERD diagram (UML, chen, crow's foot)
+
+Functionnal Requirement để hôm sau 
+
+Hành động trong state diagram chỉ là text trên mũi tên đi, không phải là các đối tượng chính đẻ miêu tả
+state là hình tròn kh phải vuông 
+Chẳng hạn như nhấn nút tạo booking là dẫn tới state gì luôn, không nói nó nhảy tới hành động/event gì nữa, state-oriented, bỏ qua hết các hành động trên màn hình 
